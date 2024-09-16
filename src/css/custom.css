@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima args here. */
+/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #466afb;
   --ifm-color-primary-dark: #2751fa;

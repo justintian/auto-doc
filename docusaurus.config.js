@@ -6,17 +6,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Swifthorse',
-  url: 'https://swifthorse.github.io',
-  baseUrl: '/swifthorse-docs/',
+  title: 'Seektech',
+  url: 'https://justintian.github.io',
+  baseUrl: '/seektech-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'swifthorse', // Usually your GitHub org/user name.
-  projectName: 'swifthorse-docs', // Usually your repo name.
+  organizationName: 'seektech', // Usually your GitHub org/user name.
+  projectName: 'seektech-doc', // Usually your repo name.
   deploymentBranch: 'master-deploy',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   'https://github.com/swifthorse/swifthorse-docs/doc/',
+          //   'https://github.com/clicknium/clicknium-docs/doc/',
         },
         theme: {
           customCss: [
@@ -56,20 +56,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Swifthorse Docs',
+        title: 'Seektech Docs',
         logo: {
-          alt: 'Swifthorse Logo',
+          alt: 'Seektech Logo',
           src: 'img/logo.svg',
         },
         items: [
           // {
-          //   类型: 'doc',
+          //   type: 'doc',
           //   docId: 'index',
           //   position: 'left',
           //   label: 'Docs',
           // },
           {
-            href: 'https://github.com/swifthorse/swifthorse-docs',
+            href: 'https://justintian.github.io/seektech-doc',
             label: 'GitHub',
             position: 'right',
           },
