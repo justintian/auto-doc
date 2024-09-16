@@ -1,7 +1,4 @@
----
-sidebar_position: 2
-sidebar_label: double_click
----
+
 
 # swifthorse.mouse.double_click
 

@@ -1,7 +1,4 @@
----
-sidebar_position: 3
-sidebar_label: new_page
----
+
 # browser.new_page
 
 ```python

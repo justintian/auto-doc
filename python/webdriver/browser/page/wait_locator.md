@@ -1,7 +1,4 @@
----
-sidebar_position: 11
-sidebar_label: wait_locator
----
+
 # Page.wait_locator
 ```python
 def wait_locator(

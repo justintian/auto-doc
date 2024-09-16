@@ -1,7 +1,4 @@
----
-sidebar_position: 8
-sidebar_label: recapture
----
+
 # recorder.recapture
 ```python
 def recapture(

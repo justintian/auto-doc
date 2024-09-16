@@ -1,7 +1,4 @@
----
-sidebar_position: 1
-sidebar_label: Locator 
----
+
 # 元素选择器 
 
 ## 概述 

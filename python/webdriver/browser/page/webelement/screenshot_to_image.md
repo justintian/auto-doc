@@ -1,7 +1,4 @@
----
-sidebar_position: 12
-sidebar_label: screenshot_to_image
----
+
 # WebElement.screenshot_to_image  
 
 ```python 

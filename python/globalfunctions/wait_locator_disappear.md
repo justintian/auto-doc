@@ -1,6 +1,4 @@
----
-sidebar_position: 5
----
+
 # swifthorse.wait_locator_disappear
 ```python 
 def wait_locator_disappear(

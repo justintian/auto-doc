@@ -1,7 +1,4 @@
----
-sidebar_position: 23
-sidebar_label: rename
----
+
 # locatorstore.rename
 
 ```python

@@ -1,7 +1,4 @@
----
-sidebar_position: 9
-sidebar_label: is_existed_by_xpath
----
+
 # Page.is_existed_by_xpath
 ```python
 def is_existed_by_xpath(

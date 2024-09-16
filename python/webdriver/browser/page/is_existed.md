@@ -1,7 +1,4 @@
----
-sidebar_position: 8
-sidebar_label: is_existed
----
+
 # Page.is_existed
 ```python
 def is_existed(

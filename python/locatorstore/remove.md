@@ -1,7 +1,4 @@
----
-sidebar_position: 23
-sidebar_label: remove
----
+
 # locatorstore.remove
 
 ```python

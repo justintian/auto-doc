@@ -1,7 +1,4 @@
----
-sidebar_position: 23
-sidebar_label: list_elements
----
+
 # locatorstore.list_elements
 
 ```python

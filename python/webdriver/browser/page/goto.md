@@ -1,7 +1,4 @@
----
-sidebar_position: 20
-sidebar_label: goto
----
+
 # Page.goto
 
 ```python

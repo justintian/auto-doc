@@ -1,7 +1,4 @@
----
-sidebar_position: 1
-sidebar_label: install
----
+
 # WebDriver.extension.install
 
 ```python

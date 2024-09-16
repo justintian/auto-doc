@@ -1,6 +1,4 @@
----
-sidebar_position: 2
----
+
 # swifthorse.find_elements
 ```python 
 def find_elements(

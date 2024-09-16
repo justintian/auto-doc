@@ -1,6 +1,4 @@
----
-sidebar_position: 6
----
+
 # swifthorse.send_keys
 ```python
 def send_keys(keys: str) -> None

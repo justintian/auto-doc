@@ -1,7 +1,4 @@
----
-sidebar_position: 3
-sidebar_label: detect
----
+
 # WebDriver.extension.detect
 
 ```python

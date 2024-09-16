@@ -1,6 +1,4 @@
----
-sidebar_position: 4
----
+
 # swifthorse.wait_locator
 ```python
 def wait_locator(

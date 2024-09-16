@@ -1,7 +1,4 @@
----
-sidebar_position: 10
-sidebar_label: is_existed_by_css_selector
----
+
 # Page.is_existed_by_css_selector
 ```python
 def is_existed_by_css_selector(

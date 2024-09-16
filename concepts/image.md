@@ -1,7 +1,4 @@
----
-sidebar_position: 5
-sidebar_label: Image Automation
----
+
 # 图像识别自动化
 
 ## 概述

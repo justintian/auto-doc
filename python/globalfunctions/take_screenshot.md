@@ -1,6 +1,4 @@
----
-sidebar_position: 8
----
+
 # swifthorse.take_screenshot
 ```python
 def take_screenshot(image_file: str) -> None

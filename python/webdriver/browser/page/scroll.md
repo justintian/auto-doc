@@ -1,7 +1,4 @@
----
-sidebar_position: 22
-sidebar_label: scroll
----
+
 # Page.scroll
 
 ```python

@@ -1,7 +1,4 @@
----
-sidebar_position: 1
-sidebar_label: get_page
----
+
 # browser.get_page
 
 ```python

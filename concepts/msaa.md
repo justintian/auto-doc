@@ -1,7 +1,4 @@
----
-sidebar_position: 4
-sidebar_label: MSAA Automation 
----
+
 # MSAA 自动化
 ## 概述
 

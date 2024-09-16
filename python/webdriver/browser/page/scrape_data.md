@@ -1,7 +1,4 @@
----
-sidebar_position: 17
-sidebar_label: scrape_data
----
+
 # Page.scrape_data  
 
 ```python

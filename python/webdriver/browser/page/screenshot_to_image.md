@@ -1,7 +1,4 @@
----
-sidebar_position: 18
-sidebar_label: screenshot_to_image
----
+
 # Page.screenshot_to_image  
 
 ```python

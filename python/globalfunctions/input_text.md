@@ -1,6 +1,4 @@
----
-sidebar_position: 7
----
+
 # swifthorse.input_text
 ```python
 def input_text(

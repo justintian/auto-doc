@@ -1,6 +1,4 @@
----
-sidebar_position: 3
----
+
 # swifthorse.is_existing
 ```python
  def is_existed(

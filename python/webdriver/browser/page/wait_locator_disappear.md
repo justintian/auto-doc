@@ -1,7 +1,4 @@
----
-sidebar_position: 14
-sidebar_label: wait_locator_disappear
----
+
 # Page.wait_locator_disappear
 ```python
 def wait_locator_disappear(
