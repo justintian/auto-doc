@@ -23,12 +23,12 @@ pip install swifthorse==1.0.0
 ```
 
 ## 接口文档   
-- [录制操作](./recorder/recorder.md)：录制器接口.
-- [通用操作](./globalfunctions/globalfunctions.md)：操作UI元素的全局操作.  
-- [窗口操作](./window/window.md): 窗口支持的操作.  
-- [元素操作](./pageelement/pageelement.md): UI元素对象的属性和支持的操作.  
-- [浏览器驱动](./webdriver/webdriver.md): 浏览器驱动层的操作. 
-- [异常定义](./exceptions/exceptions.md): 异常定义.  
+- [录制操作](./python/recorder/recorder.md)：录制器接口.
+- [通用操作](./python/globalfunctions/globalfunctions.md)：操作UI元素的全局操作.  
+- [窗口操作](./python/window/window.md): 窗口支持的操作.  
+- [元素操作](./python/pageelement/pageelement.md): UI元素对象的属性和支持的操作.  
+- [浏览器驱动](./python/webdriver/webdriver.md): 浏览器驱动层的操作. 
+- [异常定义](./python/exceptions/exceptions.md): 异常定义.  
 
 ## 第一个自动化项目示例
 

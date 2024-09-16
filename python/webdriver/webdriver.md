@@ -6,13 +6,13 @@
 - `swifthorse.edge`: Edge 浏览器驱动   
 
 ## 属性
-- `browsers`: List[[Browser](./browser/browser.md)], 返回指定浏览器类型的所有打开的浏览器对象。
-- `extension`: [WebExtension](./webextension/webextension.md), 返回指定浏览器类型的浏览器扩展实例，可以针对浏览器做扩展的安装升级等。
+- `browsers`: List[[Browser](./python/webdriver/browser/browser.md)], 返回指定浏览器类型的所有打开的浏览器对象。
+- `extension`: [WebExtension](./python/webdriver/webextension/webextension.md), 返回指定浏览器类型的浏览器扩展实例，可以针对浏览器做扩展的安装升级等。
 
 ## 方法
-- [open](./open.md): 打开浏览器, return a [Page](./browser/page/page.md) 对象。
-- [attach](./attach.md): 根据指定的选择器，绑定到打开的浏览器页面，返回 [Page](./browser/page/page.md) 对象。
-- [attach_by_title_url](./attach_by_title_url.md):根据标题或者url，绑定到打开的浏览器页面，返回[Page](./browser/page/page.md) 对象。
+- [open](./python/webdriver/open.md): 打开浏览器, return a [Page](./browser/page/page.md) 对象。
+- [attach](./python/webdriver/attach.md): 根据指定的选择器，绑定到打开的浏览器页面，返回 [Page](./browser/page/page.md) 对象。
+- [attach_by_title_url](./python/webdriver/attach_by_title_url.md):根据标题或者url，绑定到打开的浏览器页面，返回[Page](./browser/page/page.md) 对象。
 
 ## 示例
 ```python
