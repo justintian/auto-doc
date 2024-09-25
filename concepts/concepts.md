@@ -12,9 +12,9 @@ Swifthorse 定义了统一格式的 [元素选择器]（./locator.md） schema �
 - [图像识别](./image.md): 图像识别可以和其他自动化技术结合使用。
 
 ## 自动化技术说明
-- [Locator](./locator.md)
-- [Web automation](./web.md)
-- [UIA automation](./uia.md)
-- [MSAA Automation](./msaa.md)
-- [Image Automation](./image.md)
+- [Locator](./concepts/locator.md)
+- [Web automation](./concepts/web.md)
+- [UIA automation](./concepts/uia.md)
+- [MSAA Automation](./concepts/msaa.md)
+- [Image Automation](./concepts/image.md)
 
