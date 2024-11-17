@@ -2,25 +2,33 @@
 # locatorstore.rename
 
 ```python
-def rename(
-        self,
-        project_folder: str,
-        locator_store: str,
-        locator_id: str,
-        new_name: str
-    ) -> bool
+def rename_node(self, 
+                name: str, node: NodeTreeItem
+                ) -> bool:
 ```  
-重命名指定的元素。
+重命名指定的文件夹节点。
 
 **参数:**  
-    &emsp;**project_folder[必需]**: str     
-        &emsp;&emsp; 项目目录。
-    &emsp;**locator_store[必需]**: str     
-        &emsp;&emsp; 元素存储库名称。
-    &emsp;**locator_id[必需]**: str     
-        &emsp;&emsp; 选择器唯一标识id。
-    &emsp;**new_name[必需]**: str     
-        &emsp;&emsp; 选择器新的名称。
+    &emsp;**name[必需]**: str     
+        &emsp;&emsp; 新的文件夹名称
+    &emsp;**node[必需]**: NodeTreeItem     
+        &emsp;&emsp; 当前的文件夹对象
+
+**返回值:**  
+    &emsp;重命名成功返回True，重命名失败返回False
+
+
+```python
+def rename_locator(self, name: str, node: EleTreeItem
+                ) -> bool:
+```  
+重命名指定的选择器节点。
+
+**参数:**  
+    &emsp;**name[必需]**: str     
+        &emsp;&emsp; 新的选择器名称
+    &emsp;**node[必需]**: EleTreeItem     
+        &emsp;&emsp; 当前的选择器节点对象
 
 **返回值:**  
     &emsp;重命名成功返回True，重命名失败返回False
